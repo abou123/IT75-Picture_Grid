@@ -1,4 +1,4 @@
-from heart_grid import grid
+from custom_grid import grid
 
 
 counter = 0
